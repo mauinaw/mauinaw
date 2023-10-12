@@ -31,7 +31,7 @@
 <div id="header" align="center">
  💬 my contacts: 💬
 <div id="badges">
-  <a href="https://t.me/hquvie">
+  <a href="https://t.me/guigli">
 <img src="https://www.svgrepo.com/show/354443/telegram.svg" width="40"> 
   </a>
 </div>
