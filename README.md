@@ -17,16 +17,6 @@
 </div>
 
 ---
-<div id="header" align="center">
-🔥 my stats (im very efficient) 🔥:
-<div id="badges">
-
-![mauinaw's GitHub stats](https://github-readme-stats.vercel.app/api?username=mauinaw&show_icons=true&theme=tokyonight)
-
-</div>
-</div>
-
----
 
 <div id="header" align="center">
  💬 my contacts: 💬
